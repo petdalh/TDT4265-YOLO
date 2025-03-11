@@ -1,6 +1,5 @@
 # Ignore data directories
 cleaned_data/
-data/
 Poles/
 
 # Common ML-specific files to ignore

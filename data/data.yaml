@@ -1,0 +1,14 @@
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  - pole
+
+# Path to dataset root dir
+path: /cluster/home/pettdalh/tdt4265_project/data/lidar_data
+
+# Paths relative to path
+train: train/images
+val: valid/images
+test: test/images
