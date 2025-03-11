@@ -1,0 +1,41 @@
+# Ignore data directories
+cleaned_data/
+data/
+Poles/
+
+# Common ML-specific files to ignore
+*.weights
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
