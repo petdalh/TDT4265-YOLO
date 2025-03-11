@@ -7,4 +7,4 @@ chmod +x /cluster/home/pettdalh/tdt4265_project/preprocessing/preprocess.sh
 ./preprocessing/preprocess.sh
 ```
 
-This will ensure the script has execution permissions and then execute it.
+To train model, run the train_model.ipynb notebook
